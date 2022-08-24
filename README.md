@@ -1,7 +1,7 @@
 # BANKING APPLICATION ASSIGNMENT
 This is a simple full stack Banking application designed as part of the MIT Full Stack Development course. The website is deployed on Heroku on the following [website](https://jessicakisner-fullstackbankapp.herokuapp.com/#/)
 
-<img src="./badbank.png" />
+<img src="./bank.png" />
 
 ## Technologies Used
 
